@@ -5,4 +5,4 @@
 
 - 👨‍💻 All of my projects are available at [github.com/ht-2803](github.com/ht-2803)
 
-- 📫 How to reach me **ht2803@nyu.edu**
+- 📫 How to reach me: **ht2803@nyu.edu**
