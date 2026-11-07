@@ -6,3 +6,5 @@
 - 👨‍💻 All of my projects are available at [github.com/ht-2803](github.com/ht-2803)
 
 - 📫 How to reach me: **ht2803@nyu.edu**
+
+[![GitHub Stats](https://github-stats-extended.vercel.app/api?username=ht2803-max&rank_icon=percentile&custom_title=My%20GitHub%20Stats&show_icons=true&include_all_commits=true&theme=dark)](https://github-stats-extended.vercel.app/api?username=ht2803-max&rank_icon=percentile&custom_title=My%20GitHub%20Stats&show_icons=true&include_all_commits=true&theme=dark)
